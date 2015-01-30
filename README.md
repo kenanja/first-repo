@@ -1,3 +1,3 @@
 # first-repo
 learning github
-making a first change
+I'm a student of all things internet
